@@ -1,6 +1,4 @@
 # sample
 hello
 hi
-how
-ARE
-U
+bye
